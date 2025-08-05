@@ -1,0 +1,106 @@
+.main_container{
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+.main1{
+  width: 100%;
+  /* justify-content: center;
+  align-items: center;
+  text-align: center; */
+}
+
+.first_container,.second_container,.third_container,.fourth_container{
+  display: inline-block;
+  padding: 10px;
+}
+img{
+  width: 250px;
+  height: 400px;
+}
+
+.sub_container{
+  width: 100%;
+  /* justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex; */
+}
+
+.fifth_container,.sixth_container,.seven_container,.eigth_container{
+ display: inline-block;
+ padding: 10px;
+}
+
+ .sub_container img{
+  width: 250px;
+  height: 400px;
+}
+
+.sub_2{
+  width: 100%;
+  /* justify-content: center;
+  align-items: center;
+  text-align: center; */
+}
+.sub_2 img{
+  width: 600px;
+  height: 600px;
+}
+
+.sub_3{
+  width: 100%;
+}
+.sub_3 p{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.subbc{
+  width: 100%;
+  /* border: 2px solid; */
+
+ 
+}
+.sub_4{
+  display:inline-block;
+  width: 28%;
+}
+.sub_5,.sub_6{
+  display:inline-block;
+  width: 28%;
+} 
+.item1>img{
+  width: 60px;
+  height: 40px;
+}
+.item1>p{
+  display: inline-block;
+  
+}
+.item2>img{
+  width: 60px;
+  height: 40px;
+}
+.item2>p{
+  display: inline-block;
+  padding: 5px;
+  
+}
+.sub_6>p1{
+ width:fit-content;
+ background-color: rgb(132, 147, 106);
+ color: white;
+}
+.sub_6>p2{
+  background-color: black;
+  color: white;
+}
+.sub_6>p3{
+  background-color:rgb(132, 147, 106);
+  color: white;
+  
+}
